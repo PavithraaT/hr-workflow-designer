@@ -98,7 +98,7 @@ State is managed using React hooks:
 ---
 
 ### ✏️ Node Editing Panel
-![Node Editing](https://github.com/user-attachments/assets/af6b704f-78dd-4d9c-aeb8-2dbcd7e2d13d)
+<img width="394" height="302" alt="image" src="https://github.com/user-attachments/assets/8800aba0-665b-4089-a187-23fb3dccf68a" />
 
 ---
 
@@ -166,7 +166,3 @@ http://localhost:5173
 Built using React + Vite. No backend required.
 
 ---
-
-## 👨‍💻 *Author*
-
-Built as part of a **Full Stack Engineering Intern Case Study**
