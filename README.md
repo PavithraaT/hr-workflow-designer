@@ -90,18 +90,6 @@ State is managed using React hooks:
 
 ---
 
-## 📦 Installation & Run Locally
-
-```bash id="install"
-npm install
-npm run dev
-
-Then open:
-
-http://localhost:5173
-
----
-
 ## 📸 Screenshots
 
 ### 🧩 Main Workflow Canvas
@@ -125,6 +113,7 @@ http://localhost:5173
 ![Live Flow 2](https://github.com/user-attachments/assets/f09650f4-6ae9-44b1-82ea-d633572ea2c8)
 ---
 
+
 ## 🎯 Key Learnings
 
 - Building graph-based UI systems using React Flow  
@@ -146,6 +135,7 @@ http://localhost:5173
 
 ---
 
+
 ## 📌 Notes
 
 - This is a frontend-only prototype  
@@ -153,7 +143,30 @@ http://localhost:5173
 - Designed as a zero-to-one engineering case study  
 
 ---
+## ⚙️ Setup Instructions
 
-## 👨‍💻 Author
+```bash
+# Clone repo
+git clone https://github.com/your-username/hr-workflow-designer.git
+
+# Move into folder
+cd hr-workflow-designer
+
+# Install dependencies
+npm install
+
+# Run project
+npm run dev
+
+Open:
+http://localhost:5173
+
+🧠 Note
+
+Built using React + Vite. No backend required.
+
+---
+
+## 👨‍💻 *Author*
 
 Built as part of a **Full Stack Engineering Intern Case Study**
