@@ -100,42 +100,60 @@ Then open:
 
 http://localhost:5173
 
+---
+
 ## 📸 Screenshots
-Main Workflow Canvas:
-<img width="940" height="486" alt="image" src="https://github.com/user-attachments/assets/46d1bdd0-5e25-48b5-8b1e-10cd9af52b3b" />
 
-Node Editing Panel:
-<img width="230" height="153" alt="image" src="https://github.com/user-attachments/assets/af6b704f-78dd-4d9c-aeb8-2dbcd7e2d13d" />
+### 🧩 Main Workflow Canvas
+![Workflow Canvas](https://github.com/user-attachments/assets/46d1bdd0-5e25-48b5-8b1e-10cd9af52b3b)
 
-Workflow Example:
-<img width="940" height="550" alt="image" src="https://github.com/user-attachments/assets/8507d07b-925c-4ac0-b411-01e7ba4872de" />
+---
 
-Live running flow:
-<img width="940" height="503" alt="image" src="https://github.com/user-attachments/assets/0156ba33-7fc8-4467-b3aa-8d5962cca9a5" />
-<img width="830" height="358" alt="image" src="https://github.com/user-attachments/assets/f09650f4-6ae9-44b1-82ea-d633572ea2c8" />
+### ✏️ Node Editing Panel
+![Node Editing](https://github.com/user-attachments/assets/af6b704f-78dd-4d9c-aeb8-2dbcd7e2d13d)
 
+---
 
+### 🔄 Workflow Example
+![Workflow Example](https://github.com/user-attachments/assets/8507d07b-925c-4ac0-b411-01e7ba4872de)
+
+---
+
+### ▶️ Live Running Flow
+![Live Flow 1](https://github.com/user-attachments/assets/0156ba33-7fc8-4467-b3aa-8d5962cca9a5)
+
+![Live Flow 2](https://github.com/user-attachments/assets/f09650f4-6ae9-44b1-82ea-d633572ea2c8)
+---
 
 ## 🎯 Key Learnings
-Building graph-based UI systems using React Flow
-Managing complex state (nodes + edges)
-Designing scalable UI architecture
-Simulating workflow execution logic
-Component-driven frontend system design
+
+- Building graph-based UI systems using React Flow  
+- Managing complex state (nodes + edges)  
+- Designing scalable UI architecture  
+- Simulating workflow execution logic  
+- Component-driven frontend system design  
+
+---
 
 ## 🚀 Future Improvements
-Graph-based execution engine (DFS/BFS traversal)
-Step-by-step workflow animation
-Backend integration (PostgreSQL / APIs)
-Workflow persistence
-Undo/Redo functionality
-Role-based node configurations
+
+- Graph-based execution engine (DFS/BFS traversal)  
+- Step-by-step workflow animation  
+- Backend integration (PostgreSQL / APIs)  
+- Workflow persistence  
+- Undo/Redo functionality  
+- Role-based node configurations  
+
+---
 
 ## 📌 Notes
-This is a frontend-only prototype
-Focus is on UI architecture and workflow modeling
-Designed as a zero-to-one engineering case study
 
+- This is a frontend-only prototype  
+- Focus is on UI architecture and workflow modeling  
+- Designed as a zero-to-one engineering case study  
 
-👨‍💻 Author
-Built as part of a Full Stack Engineering Intern case study. 
+---
+
+## 👨‍💻 Author
+
+Built as part of a **Full Stack Engineering Intern Case Study**
